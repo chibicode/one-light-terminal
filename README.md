@@ -8,6 +8,10 @@ A theme for iTerm that mimics the [One Light Theme](http://github.com/atom/one-l
 
 Currently only supports iTerm2. Pull Requests for Terminal.app welcome.
 
+## Bonus: Tmux
+
+Use tmuxcolors-light on [tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized).
+
 ## Reference Colors from One Light Theme
 
 - Used `.gray` for foreground, bold, and selected text, and black text color.
