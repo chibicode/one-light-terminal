@@ -1,5 +1,7 @@
 # one-light-terminal
 
+### [Download the iTerm theme from Here](one-light-terminal.itermcolors).
+
 A theme for iTerm that mimics the [One Light Theme](http://github.com/atom/one-light-syntax) made by the Atom team. Inspired by [one-dark-terminal](https://github.com/nathanbuchar/one-dark-terminal).
 
 ![](screenshot.png)
